@@ -1,5 +1,5 @@
-whowho hey
-This is AirBnB Clone License: MIT Build Status HBnB Logo
+
+AirBnB Clone License: MIT Build Status HBnB Logo
 
 Contents Description Environment Further Information Requirements Repo Contents Installation Usage Built with Acknowledgements
 
