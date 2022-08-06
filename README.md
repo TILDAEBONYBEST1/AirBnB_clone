@@ -33,4 +33,5 @@ Acknowledgements 🙌
 To all the peers that contribuited with their knowledge
 
 Authors 🖋️
-Hanetu Matilda Ibiba @TILDAEBONYBEST1 Lucky Aboim @Faemous
+Hanetu Matilda Ibiba @TILDAEBONYBEST1
+Lucky Anana Abiom @Faemous
